@@ -1,5 +1,14 @@
 # claude-tray-mac
 
+> Written by [Claude](https://claude.com/claude-code) (Anthropic's AI, in
+> conversation with the repo owner) — not hand-coded by a human.
+>
+> Note: retired from active use on the owner's Mac in favor of the
+> [ClaudeTokenMonitor](https://github.com/Firas/ClaudeTokenMonitor)
+> companion project (native Swift, was already running) — kept here as a
+> working alternative using a different data source (Keychain / Claude
+> Code CLI instead of Claude Desktop cookies).
+
 Claude usage (5-hour + weekly token budget remaining) in the macOS menu
 bar. Python, built on [rumps](https://github.com/jaredks/rumps)
 (BSD-3-Clause) for the status-bar UI.
